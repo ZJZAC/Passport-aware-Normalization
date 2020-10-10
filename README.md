@@ -21,7 +21,7 @@ In this task, we mainly refer to the settings mentioned in the baseline method "
 
 ### How to run
 
-Take AlexNet on CIFAR10 as example, which is running on default arguments.
+Take AlexNet on CIFAR10 dataset as example, which is running on default arguments.
 ```
 ## cd Image_cls/Ours
 ```
@@ -61,7 +61,7 @@ Details about Passpor-aware Normalization can be found in ./models/layers/passpo
 
 ### How to run
 Take  [PointNet](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) 
-on [ModelNet](https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip) as example:
+on [ModelNet](https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip) dataset as example:
 
 ```
 ## cd 3d_point_cls
