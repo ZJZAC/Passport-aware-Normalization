@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1c21afb-a783-4f09-8247-e13a94d35858" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cFIre4rCzMBQrF3e995FLGr9v0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/passport_configs" />
+      <recent name="$PROJECT_DIR$/experiments" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1c21afb-a783-4f09-8247-e13a94d35858" name="默认更改列表" comment="" />
+      <created>1590118114928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590118114928</updated>
+      <workItem from="1590118121089" duration="5301000" />
+      <workItem from="1590137949038" duration="1627000" />
+      <workItem from="1590144912373" duration="189000" />
+      <workItem from="1590248365601" duration="1858000" />
+      <workItem from="1590330550750" duration="33864000" />
+      <workItem from="1590622277112" duration="1874000" />
+      <workItem from="1590624678274" duration="2984000" />
+      <workItem from="1590629339550" duration="57000" />
+      <workItem from="1590631019225" duration="2392000" />
+      <workItem from="1590637031622" duration="941000" />
+      <workItem from="1590638503984" duration="65000" />
+      <workItem from="1590639680927" duration="453000" />
+      <workItem from="1590682247129" duration="6057000" />
+      <workItem from="1590724415754" duration="1794000" />
+      <workItem from="1590732636475" duration="1587000" />
+      <workItem from="1590739457553" duration="4812000" />
+      <workItem from="1590751905120" duration="1220000" />
+      <workItem from="1590759250680" duration="1970000" />
+      <workItem from="1590761676796" duration="16617000" />
+      <workItem from="1590820496645" duration="66887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="89" key="SettingsEditor" timestamp="1590118244130">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900/1440.-122.1920.1080@0.0.1440.900" timestamp="1590118244129" />
+    <state x="626" y="187" key="ftp.server.browser" timestamp="1590118236464">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="626" y="187" key="ftp.server.browser/0.0.1440.900/1440.-122.1920.1080@0.0.1440.900" timestamp="1590118236464" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1590248415204">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-122.1920.1080@0.0.1440.900" timestamp="1590248415204" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

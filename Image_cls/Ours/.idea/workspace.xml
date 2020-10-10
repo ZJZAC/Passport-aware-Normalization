@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef1a0939-5478-4019-8ad4-e9b4f956c2de" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cGC4sBNJ0VpynwMveTRUAgUMXq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/models/layers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models/layers" />
+      <recent name="$PROJECT_DIR$/passport_configs" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="passportconv2d_private" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Our-DIPR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/layers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/layers/passportconv2d_private.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.passportconv2d_private_2fc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef1a0939-5478-4019-8ad4-e9b4f956c2de" name="默认更改列表" comment="" />
+      <created>1590145354526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590145354526</updated>
+      <workItem from="1590145360134" duration="2944000" />
+      <workItem from="1590155522797" duration="93000" />
+      <workItem from="1590156044843" duration="970000" />
+      <workItem from="1590213363563" duration="6809000" />
+      <workItem from="1590283162905" duration="88410000" />
+      <workItem from="1590638362672" duration="127000" />
+      <workItem from="1590686216617" duration="16000" />
+      <workItem from="1590686752703" duration="4308000" />
+      <workItem from="1590720838050" duration="11465000" />
+      <workItem from="1590734898601" duration="6487000" />
+      <workItem from="1590748162501" duration="3102000" />
+      <workItem from="1590760812764" duration="524000" />
+      <workItem from="1590801755756" duration="274000" />
+      <workItem from="1590809756101" duration="407000" />
+      <workItem from="1590825566885" duration="633000" />
+      <workItem from="1590826401465" duration="56644000" />
+      <workItem from="1591112136669" duration="13204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="-835" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591146053765">
+      <screen x="-223" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="388" y="-835" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-2143.-1080.1920.1080/-223.-1080.1920.1080@-223.-1080.1920.1080" timestamp="1591146053765" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590740346016" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1590145456035">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900/1440.-122.1920.1080@0.0.1440.900" timestamp="1590145456035" />
+    <state x="1440" y="-99" width="1398" height="902" maximized="true" key="dock-window-1" timestamp="1590471150288">
+      <screen x="1440" y="-122" width="1920" height="1080" />
+    </state>
+    <state x="1440" y="-99" width="1398" height="902" maximized="true" key="dock-window-1/0.23.1440.877/1440.-122.1920.1080@0.23.1440.877" timestamp="1590471150288" />
+    <state x="1440" y="-122" width="1920" height="1080" key="dock-window-2" timestamp="1590484721810">
+      <screen x="1440" y="-99" width="1920" height="1057" />
+    </state>
+    <state x="1440" y="-122" width="1920" height="1080" key="dock-window-2/0.0.1440.900/1440.-99.1920.1057@0.0.1440.900" timestamp="1590484721810" />
+    <state x="1440" y="-122" width="1902" height="1056" key="dock-window-3" timestamp="1590627129747">
+      <screen x="1440" y="-122" width="1920" height="1080" />
+    </state>
+    <state x="1440" y="-122" width="1902" height="1056" key="dock-window-3/0.0.1440.900/1440.-122.1920.1080@0.0.1440.900" timestamp="1590627129747" />
+    <state x="1440" y="-99" width="1084" height="902" key="dock-window-4" timestamp="1590627416322">
+      <screen x="1440" y="-99" width="1920" height="1057" />
+    </state>
+    <state x="1440" y="-122" width="1084" height="902" key="dock-window-4/0.0.1440.900/1440.-122.1920.1080@0.0.1440.900" timestamp="1590627182852" />
+    <state x="1440" y="-99" width="1084" height="902" key="dock-window-4/0.23.1440.877/1440.-99.1920.1057@0.23.1440.877" timestamp="1590627416322" />
+    <state x="626" y="187" key="ftp.server.browser" timestamp="1590145446316">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="626" y="187" key="ftp.server.browser/0.0.1440.900/1440.-122.1920.1080@0.0.1440.900" timestamp="1590145446316" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
