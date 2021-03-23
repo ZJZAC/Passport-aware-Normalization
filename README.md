@@ -15,7 +15,7 @@ different attacks, such as fine-tuning, model pruning and ambiguity attacks.
 
 ## Image Classification
 In this task, we mainly refer to the settings mentioned in the baseline method "Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks"
- ([Code](https://kamwoh.github.io/DeepIPR/) | [Pepaer](https://arxiv.org/abs/1909.07830)).
+ ([Code](https://kamwoh.github.io/DeepIPR/) | [Paper](https://arxiv.org/abs/1909.07830)).
  
 
 
