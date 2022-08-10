@@ -3,7 +3,7 @@ Passport-aware Normalization
 =======
 
 
-This repo is implementation for the accepted paper "Passport-aware Normalization for Deep Model Protection" (NeurIPS 2020).
+This repo is implementation for the accepted paper "Passport-aware Normalization for Deep Model Protection" ([paper](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf),NeurIPS 2020).
 
 
 <p align="center"> <img src="passport_aware.png" width="50%">    </p>
